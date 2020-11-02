@@ -31,8 +31,7 @@ namespace HWDay7
 - Ask trainees to modify Info class by adding new methods for displaying Enrollment details
 
      */
-    class Enroll
-    {
+ 
         public class Enroll
         {
             private Student student;
@@ -40,5 +39,5 @@ namespace HWDay7
             private LocalDate enrollmentDate;
             //constructors & getters/setters
         }
-    }
+    
 }

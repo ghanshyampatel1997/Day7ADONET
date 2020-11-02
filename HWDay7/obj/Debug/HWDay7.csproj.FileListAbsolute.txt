@@ -1,0 +1,2 @@
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\Day 7\Github\Day7ADONET\HWDay7\obj\Debug\HWDay7.csprojAssemblyReference.cache
+D:\desktop\dotnet training\Bootcamp1 complite\C#\C# code\Day 7\Github\Day7ADONET\HWDay7\obj\Debug\HWDay7.csproj.CoreCompileInputs.cache
