@@ -1,0 +1,7 @@
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\bin\Debug\ConnectedArchitectureEx.exe.config
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\bin\Debug\ConnectedArchitectureEx.exe
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\bin\Debug\ConnectedArchitectureEx.pdb
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\obj\Debug\ConnectedArchitectureEx.csprojAssemblyReference.cache
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\obj\Debug\ConnectedArchitectureEx.csproj.CoreCompileInputs.cache
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\obj\Debug\ConnectedArchitectureEx.exe
+D:\desktop\dotnet training\C#\C# code\Day 7\ADO.netDay7\ConnectedArchitectureEx\obj\Debug\ConnectedArchitectureEx.pdb
